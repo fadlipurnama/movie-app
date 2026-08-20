@@ -1,0 +1,59 @@
+{
+    "Hero": {
+        "Content": {
+            "title": "Pengalaman Streaming Terbaik",
+            "description": "OK!Play.Movie memberikan pengalaman streaming terbaik untuk menonton film dan acara TV favorit Anda secara on-demand, kapan saja, dan di mana saja. Bersama StreamVibe, Anda dapat menikmati berbagai macam konten, termasuk film blockbuster terbaru, film klasik, acara TV populer, dan banyak lagi. Anda juga dapat membuat daftar tontonan sendiri, sehingga Anda bisa menemukan konten yang ingin ditonton dengan sangat mudah.",
+            "button": "Mulai Menonton Sekarang"
+        }
+    },
+    "Categories": {
+        "Section": {
+            "title": "Jelajahi berbagai pilihan kategori kami",
+            "description": "Baik Anda mencari komedi untuk mengocok perut, drama yang menyentuh pikiran, atau dokumenter untuk mempelajari hal baru"
+        },
+        "Genres": {
+            "action": "Aksi",
+            "adventure": "Petualangan",
+            "comedy": "Komedi",
+            "drama": "Drama",
+            "romance": "Romantis",
+            "fantasy": "Fantasi",
+            "thriller": "Ketegangan",
+            "horor": "Horor"
+        }
+    },
+    "FAQ": {
+        "WhatIsIt": {
+            "question": "Apa itu OkPlayMovie?",
+            "answer": "OkPlayMovie adalah layanan streaming hiburan yang memungkinkan Anda menonton ribuan film, serial TV, dan acara eksklusif secara on-demand kapan saja dan di mana saja."
+        },
+        "Cost": {
+            "question": "Berapa biaya berlangganan OkPlayMovie?",
+            "answer": "Nikmati akses tanpa batas mulai dari $9.99 per bulan. Kami menawarkan berbagai pilihan paket tanpa biaya tersembunyi, dan Anda dapat membatalkannya kapan saja."
+        },
+        "Content": {
+            "question": "Konten apa saja yang tersedia di OkPlayMovie?",
+            "answer": "Kami menyediakan beragam konten menarik, termasuk film box office, serial TV populer, dokumenter, animasi, serta konten lokal dan karya orisinal eksklusif dari berbagai genre."
+        },
+        "WhereToWatch": {
+            "question": "Di mana saya bisa menonton OkPlayMovie?",
+            "answer": "Anda dapat menonton melalui aplikasi OkPlayMovie di Smart TV, smartphone (iOS & Android), tablet, laptop, dan perangkat streaming seperti Chromecast dan Apple TV."
+        },
+        "SignUp": {
+            "question": "Bagaimana cara mendaftar OkPlayMovie?",
+            "answer": "Cukup pilih paket berlangganan yang Anda inginkan, buat akun menggunakan email, dan selesaikan pembayaran. Akun Anda akan langsung aktif dan siap digunakan."
+        },
+        "FreeTrial": {
+            "question": "Apakah OkPlayMovie menyediakan uji coba gratis?",
+            "answer": "Ya! Pengguna baru berhak mendapatkan uji coba gratis selama 7 hari untuk menikmati semua fitur premium sebelum berlangganan."
+        },
+        "Support": {
+            "question": "Bagaimana cara menghubungi layanan pelanggan?",
+            "answer": "Tim dukungan kami siap membantu 24/7 melalui fitur Live Chat di dalam aplikasi atau melalui email resmi kami di support@okplaymovie.com."
+        },
+        "Payment": {
+            "question": "Metode pembayaran apa saja yang diterima?",
+            "answer": "Kami menerima Kartu Kredit/Debit (Visa, Mastercard), dompet digital (E-wallet), transfer bank, dan pembayaran penagihan melalui App Store serta Google Play."
+        }
+    }
+}

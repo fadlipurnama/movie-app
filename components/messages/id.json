@@ -1,0 +1,52 @@
+{
+    "Layout": {
+        "Metadata": {
+            "siteName": "OkPlayMovie",
+            "defaultTitle": "OkPlayMovie - Nonton Film Online, Nonton Serial TV Online",
+            "defaultDescription": "Streaming film & acara TV favoritmu kapan saja di OkPlayMovie. Nikmati rilis terbaru, film klasik sepanjang masa, & buat daftar tontonanmu dengan mudah!"
+        },
+        "Header": {
+            "login": "Masuk",
+            "navigation": {
+                "home": "Beranda",
+                "movies": "Film & Acara TV",
+                "support": "Dukungan",
+                "subscriptions": "Berlangganan"
+            }
+        },
+        "Footer": {
+            "copyright": "Seluruh hak cipta dilindungi.",
+            "navigation": {
+                "home": "Beranda",
+                "movies": "Film",
+                "tv-shows": "Acara TV",
+                "support": "Dukungan",
+                "categories": "Kategori",
+                "devices": "Perangkat",
+                "pricing": "Harga",
+                "faq": "FAQ",
+                "genres": "Genre",
+                "trending": "Trending",
+                "newRelease": "Baru Rilis",
+                "popular": "Populer",
+                "contact": "Hubungi Kami"
+            },
+            "socialMedia": "Media Sosial",
+            "policy": {
+                "terms": "Ketentuan Pengguna",
+                "privacy": "Kebijakan Privasi",
+                "cookie": "Kebijakan Cookie"
+            }
+        },
+        "CTA": {
+            "title": "Siap untuk menonton? Masukkan email Anda untuk membuat atau memperbarui keanggotaan.",
+            "emailLabel": "Alamat email",
+            "buttonText": "Dapatkan Sekarang"
+        }
+    },
+    "LanguageSwitcher": {
+        "label": "Pilih Bahasa",
+        "id": "Bahasa Indonesia",
+        "en": "English"
+    }
+}

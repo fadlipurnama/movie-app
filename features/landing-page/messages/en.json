@@ -1,0 +1,59 @@
+{
+  "Hero": {
+    "Content": {
+      "title": "Stream Everything You Love, Instantly",
+      "description": "OK!Play.Movie provides the ultimate streaming experience for watching your favorite movies and TV shows on-demand, anytime and anywhere. Together with StreamVibe, you can enjoy a wide variety of content, including the latest blockbuster movies, classic films, popular TV shows, and much more. You can also create your own watchlist, making it effortless to discover the content you want to watch.",
+      "button": "Start Watching Now"
+    }
+  },
+  "Categories": {
+    "Section": {
+      "title": "Explore our wide variety of categories",
+      "description": "Whether you're looking for a comedy to make you laugh, a drama to make you think, or a documentary to learn something new"
+    },
+    "Genres": {
+      "action": "Action",
+      "adventure": "Adventure",
+      "comedy": "Comedy",
+      "drama": "Drama",
+      "romance": "Romance",
+      "fantasy": "Fantasy",
+      "thriller": "Thriller",
+      "horor": "Horor"
+    }
+  },
+  "FAQ": {
+    "WhatIsIt": {
+      "question": "What is OkPlayMovie?",
+      "answer": "OkPlayMovie is an entertainment streaming service that allows you to watch thousands of movies, TV series, and exclusive shows on-demand anytime and anywhere."
+    },
+    "Cost": {
+      "question": "How much does OkPlayMovie cost?",
+      "answer": "Enjoy unlimited access starting from $9.99 per month. We offer a variety of plans with no hidden fees, and you can cancel anytime."
+    },
+    "Content": {
+      "question": "What content is available on OkPlayMovie?",
+      "answer": "We offer a wide range of exciting content, including box office movies, popular TV series, documentaries, animations, as well as local content and exclusive originals across various genres."
+    },
+    "WhereToWatch": {
+      "question": "Where can I watch OkPlayMovie?",
+      "answer": "You can watch via the OkPlayMovie app on Smart TVs, smartphones (iOS & Android), tablets, laptops, and streaming devices such as Chromecast and Apple TV."
+    },
+    "SignUp": {
+      "question": "How do I sign up for OkPlayMovie?",
+      "answer": "Simply choose your preferred subscription plan, create an account using your email, and complete the payment. Your account will be activated immediately and ready to use."
+    },
+    "FreeTrial": {
+      "question": "Does OkPlayMovie offer a free trial?",
+      "answer": "Yes! New users are eligible for a 7-day free trial to enjoy all premium features before subscribing."
+    },
+    "Support": {
+      "question": "How do I contact customer support?",
+      "answer": "Our support team is ready to help 24/7 via the in-app Live Chat feature or through our official email at support@okplaymovie.com."
+    },
+    "Payment": {
+      "question": "What payment methods are accepted?",
+      "answer": "We accept Credit/Debit Cards (Visa, Mastercard), digital wallets (E-wallets), bank transfers, and billing payments via the App Store and Google Play."
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+    "Layout": {
+        "Metadata": {
+            "siteName": "OkPlayMovie",
+            "defaultTitle": "OkPlayMovie - Watch Movies Online, Watch TV Series Online",
+            "defaultDescription": "Stream your favorite movies & TV shows anytime on OkPlayMovie. Enjoy latest releases, timeless classics, & easily create your watchlist!"
+        },
+        "Header": {
+            "login": "Sign In",
+            "navigation": {
+                "home": "Home",
+                "movies": "Movies & TV Shows",
+                "support": "Support",
+                "subscriptions": "Subscriptions"
+            }
+        },
+        "Footer": {
+            "copyright": "All Rights Reserved.",
+            "navigation": {
+                "home": "Home",
+                "movies": "Movies",
+                "tv-shows": "TV Shows",
+                "support": "Support",
+                "categories": "Categories",
+                "devices": "Device",
+                "pricing": "Price",
+                "faq": "FAQ",
+                "genres": "Genres",
+                "trending": "Trending",
+                "newRelease": "New Release",
+                "popular": "Popular",
+                "contact": "Contact Us"
+            },
+            "socialMedia": "Social Media",
+            "policy": {
+                "terms": "Terms of Us",
+                "privacy": "Privacy Policy",
+                "cookie": "Cookie Policy"
+            }
+        },
+        "CTA": {
+            "title": "Ready to watch? Enter your email to create or restart your membership.",
+            "emailLabel": "Email address",
+            "buttonText": "Get Started"
+        }
+    },
+    "LanguageSwitcher": {
+        "label": "Select Language",
+        "id": "Indonesian",
+        "en": "English"
+    }
+}
