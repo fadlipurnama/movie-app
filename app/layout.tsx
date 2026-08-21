@@ -14,16 +14,17 @@ const manrope = Manrope({
 
 type Props = {
   children: React.ReactNode;
-  params: Promise<{ locale: string }>;
+  params: Promise<{ locale?: string }>;
 };
 
 export async function generateMetadata({
   params,
 }: Omit<Props, "children">): Promise<Metadata> {
   const { locale } = await params;
+  const currentLocale = locale || "id"; // Fallback nilai default
 
   // getTranslations dipanggil di dalam fungsi request scope
-  const t = await getTranslations({ locale, namespace: "Layout.Metadata" });
+  const t = await getTranslations({ locale: currentLocale, namespace: "Layout.Metadata" });
   return {
     title: t("defaultTitle"),
     description: t("defaultDescription"),
@@ -32,11 +33,12 @@ export async function generateMetadata({
 
 export default async function RootLayout({ children, params }: Props) {
   const { locale } = await params;
+  const currentLocale = locale || "id"; // Fallback nilai default
   const messages = await getMessages();
 
   return (
-    <html lang={locale} className={`${manrope.className} dark`}>
-      <NextIntlClientProvider locale={locale} messages={messages}>
+    <html lang={currentLocale} className={`${manrope.className} dark`}>
+      <NextIntlClientProvider locale={currentLocale} messages={messages}>
         <body className="min-h-full flex flex-col">
           <Header />
           <main className="min-h-svh">
