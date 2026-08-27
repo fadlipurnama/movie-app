@@ -6,11 +6,11 @@ export default function LoginSection() {
   return (
     <section
       className="relative min-h-svh   
-      before:pointer-events-none before:absolute before:inset-0 before:h-svh before:bg-linear-to-b before:from-grey-60/25 before:via-grey-65/15 before:to-white/60
+      before:pointer-events-none before:absolute before:-z-10 before:inset-0 before:h-svh before:bg-linear-to-b before:from-grey-60/25 before:via-grey-65/15 before:to-white/60
       
       dark:before:from-red-600/35 dark:before:via-red-950/20 dark:before:to-black/60"
     >
-      <div className="max-w-md z-20 mx-auto pt-40 rounded-lg">
+      <div className="max-w-md mx-auto pt-40 rounded-lg">
         <h1 className="text-2xl font-bold mb-4">{t("title")}</h1>
 
         <LoginForm />
