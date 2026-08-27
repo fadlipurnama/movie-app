@@ -3,9 +3,8 @@ import { Manrope } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import "./globals.css";
 import { getMessages, getTranslations } from "next-intl/server";
-import Footer from "@/components/layout/Footer";
-import Header from "@/components/layout/Header";
-import Cta from "@/components/layout/Cta";
+
+import LayoutContent from "@/components/layout/LayoutContent";
 
 const manrope = Manrope({
   variable: "--font-manrope",
@@ -42,12 +41,7 @@ export default async function RootLayout({ children, params }: Props) {
     <html lang={locale} className={`${manrope.className} dark`}>
       <NextIntlClientProvider locale={locale} messages={messages}>
         <body className="min-h-full flex flex-col">
-          <Header />
-          <main className="min-h-svh">
-            {children}
-            <Cta />
-          </main>
-          <Footer />
+          <LayoutContent>{children}</LayoutContent>
         </body>
       </NextIntlClientProvider>
     </html>
