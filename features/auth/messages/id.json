@@ -1,0 +1,17 @@
+{
+    "Login": {
+        "title": "Masuk dengan Akun TMDb",
+        "usernameLabel": "Username TMDb",
+        "passwordLabel": "Password TMDb",
+        "button": "Masuk",
+        "buttonLoading": "Loading masuk...",
+        "noAccount": "Belum memiliki akun?",
+        "registerLink": "Daftar melalui Website TMDb",
+        "errors": {
+            "usernameRequired": "Username TMDb wajib diisi",
+            "passwordRequired": "Password wajib diisi",
+            "defaultError": "Login gagal. Silakan coba lagi.",
+            "generalError": "Terjadi kesalahan saat login."
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Login": {
+        "title": "Login TMDb Account",
+        "usernameLabel": "TMDb Username",
+        "passwordLabel": "TMDb Password",
+        "button": "Sign In",
+        "buttonLoading": "Signing in...",
+        "noAccount": "Don't have an account?",
+        "registerLink": "Sign up on TMDb Website",
+        "errors": {
+            "usernameRequired": "TMDb username is required",
+            "passwordRequired": "Password is required",
+            "defaultError": "Login failed. Please try again.",
+            "generalError": "An error occurred during login."
+        }
+    }
+}
