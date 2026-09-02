@@ -9,12 +9,13 @@ export default function HeroSection() {
         <HeroBackgroundGrid />
 
         {/* Logo */}
-        <div className="aspect my-auto z-2">
+        <div className="w-90 my-auto z-4">
           <Image
             src={"/assets/logo/play-logo.svg"}
             alt="Hero Logo"
-            width={360}
-            height={360}
+            width={240}
+            height={240}
+            className="w-auto h-auto"
           />
         </div>
       </div>

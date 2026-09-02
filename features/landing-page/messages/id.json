@@ -7,22 +7,20 @@
         }
     },
     "Categories": {
-        "Section": {
-            "title": "Jelajahi berbagai pilihan kategori kami",
-            "description": "Baik Anda mencari komedi untuk mengocok perut, drama yang menyentuh pikiran, atau dokumenter untuk mempelajari hal baru"
+        "MovieSection": {
+            "title": "Jelajahi berbagai genre dari film yang sesuai dengan selera Anda.",
+            "description": "Mulai dari aksi memicu adrenalin, petualangan penuh misteri, hingga komedi yang mengocok perut, temukan film favoritmu di sini untuk mengisi waktu santaimu."
         },
-        "Genres": {
-            "action": "Aksi",
-            "adventure": "Petualangan",
-            "comedy": "Komedi",
-            "drama": "Drama",
-            "romance": "Romantis",
-            "fantasy": "Fantasi",
-            "thriller": "Ketegangan",
-            "horor": "Horor"
+        "TvSection": {
+            "title": "Jelajahi berbagai genre dari serial TV yang sesuai dengan selera Anda.",
+            "description": "Temukan serial TV menarik, dari drama yang menyentuh pikiran, petualangan penuh misteri, hingga dokumenter yang seru untuk maraton streaming bersama teman dan keluarga."
         }
     },
     "FAQ": {
+        "Section": {
+            "title": "Pertanyaan yang Sering Diajukan",
+            "description": "Temukan jawaban atas pertanyaan umum tentang OkPlayMovie, termasuk paket berlangganan, ketersediaan konten, dan dukungan teknis."
+        },
         "WhatIsIt": {
             "question": "Apa itu OkPlayMovie?",
             "answer": "OkPlayMovie adalah layanan streaming hiburan yang memungkinkan Anda menonton ribuan film, serial TV, dan acara eksklusif secara on-demand kapan saja dan di mana saja."

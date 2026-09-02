@@ -7,22 +7,20 @@
     }
   },
   "Categories": {
-    "Section": {
-      "title": "Explore our wide variety of categories",
-      "description": "Whether you're looking for a comedy to make you laugh, a drama to make you think, or a documentary to learn something new"
+    "MovieSection": {
+      "title": "Explore various movie genres tailored to your taste.",
+      "description": "From adrenaline-pumping action and mysterious adventures to laugh-out-loud comedy, find your favorite movies here to light up your downtime."
     },
-    "Genres": {
-      "action": "Action",
-      "adventure": "Adventure",
-      "comedy": "Comedy",
-      "drama": "Drama",
-      "romance": "Romance",
-      "fantasy": "Fantasy",
-      "thriller": "Thriller",
-      "horor": "Horor"
+    "TvSection": {
+      "title": "Explore various TV show genres tailored to your taste.",
+      "description": "Discover exciting TV shows, from thought-provoking dramas and mysterious adventures to binge-worthy documentaries for your next watch party with friends and family."
     }
   },
   "FAQ": {
+    "Section": {
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about OkPlayMovie, including subscription plans, content availability, and technical support."
+    },
     "WhatIsIt": {
       "question": "What is OkPlayMovie?",
       "answer": "OkPlayMovie is an entertainment streaming service that allows you to watch thousands of movies, TV series, and exclusive shows on-demand anytime and anywhere."

@@ -1,14 +1,18 @@
 import Title from "@/components/ui/title";
 import { Button } from "@/components/ui/button";
 import { FaqAccordion } from "./faq-accordion";
+import { useTranslations } from "next-intl";
 
 export default function FaqSection() {
+
+  const t = useTranslations("LandingPage.FAQ.Section");
   return (
+
     <section className="container mb-32">
       <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 lg:gap-4 mb-5 lg:mb-9">
         <Title
-          title="Frequently Asked Questions"
-          text={`Got questions? We've got answers! Check out our FAQ section to find answers to the most common questions about StreamVibe.`}
+          title={t("title")}
+          text={t("description")}
         />
         <Button className={'max-w-min'} size={"lg"}>Ask a Question</Button>
       </div>
