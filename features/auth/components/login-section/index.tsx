@@ -3,6 +3,8 @@ import LoginForm from "./login-form";
 
 export default function LoginSection() {
   const t = useTranslations("Auth.Login");
+
+  
   return (
     <section
       className="relative min-h-svh   
