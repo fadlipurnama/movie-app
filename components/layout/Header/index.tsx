@@ -50,6 +50,7 @@ export default function Header({ isAuthPage }: { isAuthPage: boolean }) {
             alt="inline-logo"
             width={"166"}
             height={"50"}
+            className="w-auto"
           />
         </Link>
 
